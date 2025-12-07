@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mediaciya-obuchenie.vercel.app/sitemap.xml
